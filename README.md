@@ -1,8 +1,9 @@
 # IPL-Data-Analysis-using-Apache-Spark
-A. Summary:
+
+**A. Summary:**
   This project is to analyze the Indian Premier League (IPL) data using Apache Spark to uncover patterns, player statistics, team performance, and other insights. The analysis leverages distributed computing capabilities of Spark to process large datasets efficiently.
 
-B. Project Scope
+**B. Project Scope**
   The scope of this project is to analyze the Indian Premier League (IPL) data using Apache Spark to uncover patterns, player statistics, team performance, and other insights. The analysis     leverages distributed computing capabilities of Spark to process large datasets efficiently.
 
     Key goals include:
@@ -13,7 +14,7 @@ B. Project Scope
     4. Calculating metrics like average runs, strike rates, and bowling economy.
     5. Visualizing key insights using Python libraries like Seaborn and Matplotlib.
 
-C. Project Problem Statement : 
+**C. Project Problem Statement :** 
   Cricket generates vast amounts of data during matches, and IPL is no exception.
   This project aims to address the following challenges:
 
@@ -24,7 +25,7 @@ C. Project Problem Statement :
 
   By addressing these challenges, this project provides a comprehensive framework to analyze IPL data.
 
-D. Project Conclusion : 
+**D. Project Conclusion :** 
   This project demonstrates the power of Apache Spark in handling and analyzing large-scale datasets, specifically IPL cricket data. It highlights how distributed computing and SQL integration can provide deep insights into player and team performances.
 
     Key findings:
@@ -33,7 +34,8 @@ D. Project Conclusion :
     2. Analyzed team performances to determine the most consistent teams over the years.
     3. Found correlations between key player performances and match outcomes, showcasing the importance of star players.
     4. This project provides a framework that can be extended to analyze other sports datasets or event-based data using Spark.
-E. Technologies used in project :
+
+**E. Technologies used in project :**
 
     1. Tools and Frameworks: Apache Spark, PySpark, Pandas, Matplotlib, Seaborn.
     2. Programming Language: Python.
