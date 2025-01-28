@@ -1,9 +1,9 @@
 # IPL-Data-Analysis-using-Apache-Spark
 
-**A. Summary:**
+**A. Summary :**
   This project is to analyze the Indian Premier League (IPL) data using Apache Spark to uncover patterns, player statistics, team performance, and other insights. The analysis leverages distributed computing capabilities of Spark to process large datasets efficiently.
 
-**B. Project Scope**
+**B. Project Scope :**
   The scope of this project is to analyze the Indian Premier League (IPL) data using Apache Spark to uncover patterns, player statistics, team performance, and other insights. The analysis     leverages distributed computing capabilities of Spark to process large datasets efficiently.
 
     Key goals include:
